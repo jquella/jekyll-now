@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running! Wahoo!
+title: You're up and running! Good. Stuff!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
